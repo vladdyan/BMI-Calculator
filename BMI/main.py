@@ -1,3 +1,4 @@
+
 try:
     weight = float(input('Enter your weight: '))
     height = float(input('Enter your height: '))
@@ -20,3 +21,4 @@ try:
             if BMI > 30:break
 except:
     print('Please enter only positive numbers')
+
