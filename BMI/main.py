@@ -1,2 +1,3 @@
+from function import main_code
 
-1
+main_code()
